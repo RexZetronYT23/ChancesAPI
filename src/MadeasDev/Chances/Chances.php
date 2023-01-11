@@ -41,7 +41,6 @@ class Chances
             return true;
         }
         $cube = random_int(0, 100);
-        var_dump($cube);
         if ($cube <= $first) $onSuccess();
         if ($cube > $first && !is_null($onFailure)) $onFailure();
         return true;
