@@ -1,6 +1,8 @@
 # ChancesAPI
 A very simple chances api
 
+**NOW AVAILABLE ON COMPOSER** composer require madeasdev/chances
+
 # **Usage:**
 ```php
 Chances::chance("fifty-fifty", function () {
