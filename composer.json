@@ -1,0 +1,17 @@
+{
+    "name": "madeasdev/chances",
+    "description": "A simple chances api",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Madeasdev\\Chances\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MadeAsDev ( Querrdenker )"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
