@@ -11,4 +11,4 @@ Chances::chance("fifty-fifty", function () {
 ```
 
 # **Download**:
-[Show releases](https://github.com/RexZetronYT23/ChancesAPI/releases)
+[Click here](https://github.com/RexZetronYT23/ChancesAPI/archive/refs/heads/main.zip)
